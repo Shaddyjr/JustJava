@@ -36,7 +36,7 @@
     <string name="sum_quant">Quantity: <xliff:g>%s</xliff:g></string>
 
     <!--Total in order summary [CHAR LIMIT = NONE]-->
-    <string name="sum_total">Total: $<xliff:g>%s</xliff:g></string>
+    <string name="sum_total">Total: <xliff:g>%s</xliff:g></string>
 
     <!--Thank you in order summary [CHAR LIMIT = NONE]-->
     <string name="sum_thanks">Thank you!</string>
