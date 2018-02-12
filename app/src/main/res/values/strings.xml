@@ -1,3 +1,43 @@
-<resources>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="app_name">Just Java</string>
+
+    <!--TEXTVIEWS-->
+
+    <!--EditView Hint [CHAR LIMIT = NONE] -->
+    <string name="hint">Name</string>
+
+    <!--Toppings [CHAR LIMIT = NONE] -->
+    <string name="toppings">Toppings</string>
+
+    <!--Whipped Cream [CHAR LIMIT = 20] -->
+    <string name="whip">Whipped Cream</string>
+
+    <!--Chocolate [CHAR LIMIT = NONE] -->
+    <string name="choc">Chocolate</string>
+
+    <!--Quantity [CHAR LIMIT = NONE] -->
+    <string name="quant">Quantity</string>
+
+    <!--Order Summary [CHAR LIMIT = NONE] -->
+    <string name="order_sum">Order Summary</string>
+
+
+    <!--SUMMARY-->
+    <!--Name in order summary [CHAR LIMIT = NONE]-->
+    <string name="sum_name">Name: <xliff:g>%s</xliff:g></string>
+
+    <!--Whipped Cream count in order summary [CHAR LIMIT = NONE]-->
+    <string name="sum_whip">Add Whipped Cream? <xliff:g>%s</xliff:g></string>
+
+    <!--Chocolate count in order summary [CHAR LIMIT = NONE]-->
+    <string name="sum_choc">Add Chocolate? <xliff:g>%s</xliff:g></string>
+
+    <!--Quantity in order summary [CHAR LIMIT = NONE]-->
+    <string name="sum_quant">Quantity: <xliff:g>%s</xliff:g></string>
+
+    <!--Total in order summary [CHAR LIMIT = NONE]-->
+    <string name="sum_total">Total: $<xliff:g>%s</xliff:g></string>
+
+    <!--Thank you in order summary [CHAR LIMIT = NONE]-->
+    <string name="sum_thanks">Thank you!</string>
 </resources>
